@@ -1,4 +1,3 @@
-
 def valid_file(given_file):
     """
 
